@@ -3,6 +3,7 @@ title = "Done is better than Perfect"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
+themesDir = "themes"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 hasCJKLanguage = true # 日本語・中国語・韓国語の単語カウントを有効にする
