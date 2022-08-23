@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Done is better than Perfect</title>
+    <link>/</link>
+    <description>Recent content on Done is better than Perfect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 00:07:11 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>/aboutme/</link>
+      <pubDate>Sat, 06 Aug 2022 00:10:07 +0900</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugoで始めてみたお</title>
+      <link>/post/first/</link>
+      <pubDate>Sat, 06 Aug 2022 00:07:11 +0900</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>Step 1. Install Hugo 前回から引き続いて、今回は間取り・設計のデザインパターン編です。 ※ 筆者は住宅業界の人間ではなく、 IT 業界の人間です。また、私にとってのベストプラクティスがみなさんのベストプラクティス&amp;helli</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Mainroad Main features:
+Responsive design Main &amp;amp; secondary menus Widgetized sidebar Translations. Over 15 languages and counting Configurable theme settings (sidebar position, author box, post navigation, highlight color) via config.toml Hugo internal templates (Open Graph, Schema, Twitter Cards, Disqus, Google Analytics) Wide cross-browser compatibility Desktop: IE11+, Chrome, Firefox, Safari Mobile: Android browser (on Android 4.4+), Safari (on iOS 7+), Google Chrome, Opera mini Custom Google Fonts support, MathJax, Table of Contents, SVG icons and much more… Learn more on GitHub. Mainroad theme is released under the GPLv2 license.
+About Hugo Hugo is a static HTML and CSS website generator written in Go.</description>
+    </item>
+    
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>このサイトでは利用状況を分析するために Google アナリティクス を使用しています。 Google アナリティクスはCookieを使用してこのサイトへのアクセス情報を Google に送信しています。 Google アナリティクスでデータが収集、処理され</description>
+    </item>
+    
+  </channel>
+</rss>

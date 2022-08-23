@@ -1,0 +1,78 @@
+baseurl = "/"
+title = "Done is better than Perfect"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+hasCJKLanguage = true # 日本語・中国語・韓国語の単語カウントを有効にする
+summaryLength = 100 # サマリーの長さを100単語にする
+
+[Author]
+  name = "でぶおぷ次郎"
+  bio = "某ホワイトコンサルティング勤務の猫。\n現場での主な担当は、単体テストエビデンス トリプルチェックの2人目。"
+  avatar = "img/avatar.png"
+
+[Params]
+  description = "John Doe's Personal blog about everything" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["post", "docs"]
+  customCSS = ["css/notosansjp.css", "css/custom.css"] # カスタムCSSファイルをインクルードする
+
+[params.meta]
+    description         = "Powered by Hugo."
+    author              = "HTML5UP and Hugo"
+    favicon             = true
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+[Params.logo]
+  subtitle = "現場での苦悩と栄光を書き綴った日誌、ときどき趣味" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  # widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["recent", "categories", "taglist", "social", "twitter"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+
+[menu]
+# [[menu.main]]
+#  identifier = 'Customization'
+#  hidden = true
+# [[menu.main]]
+#  identifier = 'Getting started'
+#  hidden = true
+# [[menu.main]]
+#  identifier = 'Basic Elements'
+#  hidden = true
+# [[menu.main]]
+#  identifier = 'About'
+#  hidden = true  
+[[menu.main]]
+  name = "About"
+  identifier = "About"
+  url = "/aboutme"
+  weight = 100
+[[menu.main]]
+  name = "Twitter"
+  identifier = "Twitter"
+  url = "https://twitter.com/tnmrknm"
+  weight = 100
+
+[[Menus.footer]]
+  Name = "プライバシーポリシー"
+  URL = "/privacy/"
