@@ -2,38 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/aboutme/</loc>
-    <lastmod>2022-08-06T00:10:07+09:00</lastmod>
-  </url><url>
     <loc>/tags/aws/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
-  </url><url>
-    <loc>/categories/golang/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
-  </url><url>
-    <loc>/post/first/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
+  </url><url>
+    <loc>/categories/web/</loc>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
+  </url><url>
+    <loc>/post/first/</loc>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
   </url><url>
     <loc>/tags/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
+    <lastmod>2022-08-24T00:07:11+09:00</lastmod>
   </url><url>
-    <loc>/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-    <lastmod>2022-08-06T00:07:11+09:00</lastmod>
+    <loc>/aboutme/</loc>
+    <lastmod>2022-08-06T00:10:07+09:00</lastmod>
   </url><url>
     <loc>/about/</loc>
   </url><url>
