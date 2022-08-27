@@ -40,7 +40,7 @@ summaryLength = 100 # サマリーの長さを100単語にする
 [Params.sidebar]
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
+  single = false # Configure layout for single pages
   # Enable widgets in given order
   # widgets = ["search", "recent", "categories", "taglist"]
   widgets = ["recent", "categories", "taglist", "social", "twitter"]
